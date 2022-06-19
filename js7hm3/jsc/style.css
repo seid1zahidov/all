@@ -1,0 +1,14 @@
+body {
+    height: 18vh;
+    margin: 0;
+    padding: 10rem;
+    display: grid;
+    place-items: center;
+    font-family: system-ui;
+  }
+  span {
+    display: block;
+    font-size: 1rem;
+    font-weight: normal;
+    font-family: monospace;
+  }
